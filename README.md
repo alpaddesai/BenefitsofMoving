@@ -12,4 +12,4 @@ Confidential information is not displayed.Images are custom. Additional details 
 
 ![image](USCopyrightCertificate.png)
 
-Advanced knowledge reference https://github.com/alpaddesai/RealEstatePortfolioIdea2022
+Advanced knowledge reference https://github.com/alpaddesai/RealEstatePortfolioIdea

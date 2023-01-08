@@ -7,6 +7,9 @@ Confidential information is not displayed.Images are custom. Additional details 
 ## Benefits of Moving
 ![image](MainWindow.png)
 
+## Moving
+![image](Moving.jpg)
+
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 

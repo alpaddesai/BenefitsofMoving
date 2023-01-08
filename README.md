@@ -10,6 +10,9 @@ Confidential information is not displayed.Images are custom. Additional details 
 ## Shopping for real estate
 ![image](Moving.jpg)
 
+## Friends with Benefits
+![imaged](Friends.jpg)
+
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 

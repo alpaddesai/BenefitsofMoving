@@ -7,7 +7,7 @@ Confidential information is not displayed.Images are custom. Additional details 
 ## Benefits of Moving
 ![image](MainWindow.png)
 
-## Moving
+## Shopping for real estate
 ![image](Moving.jpg)
 
 ## Ethics and Excellence

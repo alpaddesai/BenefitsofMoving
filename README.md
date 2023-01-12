@@ -11,7 +11,7 @@ Confidential information is not displayed.Images are custom. Additional details 
 ![image](Moving.jpg)
 
 ## Friends with Benefits
-![imaged](Friends.jpg)
+![imaged](MovingFriends.jpg)
 
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
